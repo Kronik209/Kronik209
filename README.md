@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kronik209
-- 👀 I’m interested in camera monitoring
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on amything i can learn
-- 📫 How to reach me (209) 728-6956
+- 👀 I’m interested =<camera monitoring
+- 🌱 I’m currently = learning coding
+- 💞️ I’m looking to collaborate = amything i can learn
+- 📫 How to reach me @Kronik209
 
 <!---
 Kronik209/Kronik209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
